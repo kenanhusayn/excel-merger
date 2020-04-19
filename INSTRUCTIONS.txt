@@ -1,0 +1,15 @@
+1) rename the files to:
+"merge-file-1.xlsx", "merge-file-2.xlsx"
+
+"merge-file-1.xlsx" is the file that starts with the column "Page"
+"merge-file-2.xlsx" is the other one
+
+2) make sure the execute.exe program is in the same folder with the files:
+|folder
+|-- merge-file-1.xlsx
+|-- merge-file-2.xlsx
+|-- execute.exe
+
+3) double click the execute.exe file and wait a while (up to a minute depending on the file size and the computer speed)
+
+4) enjoy!
